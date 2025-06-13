@@ -6,3 +6,4 @@ really basic shellcode runner. its just example so nothing special inside
 ```sh
 python3 xor.py a.bin mysecretkey --compile
 ```
+![loader](.images/loader.png)
